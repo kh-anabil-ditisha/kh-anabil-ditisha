@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.imgur.com/GKIiAM9.jpg" alt="My GitHub Profile Banner" />
+</div>
 <h1 align="center">Hi 👋, I'm KH. ANABIL DITISHA</h1>
 <!--## Hi there 👋
 **kh-anabil-ditisha/kh-anabil-ditisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

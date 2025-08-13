@@ -13,14 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 - 🚀 **From Idea to Reality**  
 - ✨ **Building Something Awesome**  
 - 🛠 **Crafted with Passion & Code**  
 - 🌟 **Because Ordinary is Boring**
+-->
 
 <h1 align="center">Hi 👋, I'm KH. ANABIL DITISHA</h1>
 <h3 align="center">A Passionate Future App Developer | Learning & Building Every Day</h3>
+
+- 🚀 **From Idea to Reality**  
+- ✨ **Building Something Awesome**  
+- 🛠 **Crafted with Passion & Code**  
+- 🌟 **Because Ordinary is Boring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

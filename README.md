@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - 🛠 **Crafted with Passion & Code**  
 - 🌟 **Because Ordinary is Boring**
 
-# 💫 About Me:
-🚀 From Idea to Reality<br>✨ Building Something Awesome<br>🛠 Crafted with Passion & Code<br>🌟 Because Ordinary is Boring
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kh-anabil-ditisha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kh.anabilditisha@gmail.com) 

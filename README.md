@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 - 🛠 **Crafted with Passion & Code**  
 - 🌟 **Because Ordinary is Boring**
 
+  ##📂Database PDFs
+  -[Basic](https://github.com/kh-anabil-ditisha/kh-anabil-ditisha/blob/main/Database%20Management/Database%20Management%20System%201.pdf)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kh-anabil-ditisha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kh.anabilditisha@gmail.com) 

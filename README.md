@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - 🛠 **Crafted with Passion & Code**  
 - 🌟 **Because Ordinary is Boring**
 
-  - 📂Database PDFs
-  -[Basic](https://github.com/kh-anabil-ditisha/kh-anabil-ditisha/blob/main/Database%20Management/Database%20Management%20System%201.pdf)
+  - 📂Database Management System
+  -[Theory and Query](https://github.com/kh-anabil-ditisha/kh-anabil-ditisha/blob/main/Database%20Management/Database%20Management%20System%201.pdf)
 
 
 ## 🌐 Socials:

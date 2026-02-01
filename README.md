@@ -1,12 +1,28 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/8f884abd-ed74-4fcd-8257-c36b4f992455" width="100%" />
+</p>
 
-<img src="[github banner](https://github.com/user-attachments/assets/e5b8e26b-6a1e-4203-a414-f53692336c53)" width="100%"/>
-</P>
+<h1 align="center">KH. ANABIL DITISHA</h1>
 
-<h1 align="center">Hi 👋, I'm KH. ANABIL DITISHA</h1>
+<p align="center">
+  Software projects, academic work, and data analysis.
+</p>
 
+---
 
-<h3 align="center">A Passionate Future A Developer | Learning & Building Every Day</h3>
+## About
+I build software applications and share my academic CSE work.
+Currently expanding into data analysis alongside development projects.
+
+## What you’ll find here
+- Web and app development projects  
+- Academic coursework and lab assignments  
+- Data analysis and exploratory studies  
+
+## Current focus
+- Software development (projects & systems)
+- Academic learning (CSE)
+- Data analysis (foundations & practice)
 
 
   - 📂Database Management System

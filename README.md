@@ -1,35 +1,10 @@
-<div align="center">
-<img src="https://i.imgur.com/GKllA![github banner](https://github.com/user-attachments/assets/0f884abd-ed74-4fcd-8257-c36baf499245)
-M9.jpeg" alt="my github profile bann![Uploading github banner.jpg…]()
-er" />
-</div>
 
 
 <h1 align="center">Hi 👋, I'm KH. ANABIL DITISHA</h1>
-<!--## Hi there 👋
-**kh-anabil-ditisha/kh-anabil-ditisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🚀 **From Idea to Reality**  
-- ✨ **Building Something Awesome**  
-- 🛠 **Crafted with Passion & Code**  
-- 🌟 **Because Ordinary is Boring**
--->
 
 
-<h3 align="center">A Passionate Future App Developer | Learning & Building Every Day</h3>
+<h3 align="center">A Passionate Future A Developer | Learning & Building Every Day</h3>
 
-- 🚀 **From Idea to Reality**  
-- ✨ **Building Something Awesome**  
-- 🛠 **Crafted with Passion & Code**  
-- 🌟 **Because Ordinary is Boring**
 
   - 📂Database Management System
   -[Theory and Query](https://github.com/kh-anabil-ditisha/kh-anabil-ditisha/tree/main/Database%20Management)

@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://i.imgur.com/GKllA![Uploading github banner.jpg…]()
-M9.jpeg" alt="my github profile banner" />
+<img src="https://i.imgur.com/GKllA![github banner](https://github.com/user-attachments/assets/0f884abd-ed74-4fcd-8257-c36baf499245)
+M9.jpeg" alt="my github profile bann![Uploading github banner.jpg…]()
+er" />
 </div>
 
-<h1 align="center">![Uploading github banner.jpg…]()
 
 <h1 align="center">Hi 👋, I'm KH. ANABIL DITISHA</h1>
 <!--## Hi there 👋

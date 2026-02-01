@@ -1,4 +1,7 @@
+<p align="center">
 
+<img src="[github banner](https://github.com/user-attachments/assets/e5b8e26b-6a1e-4203-a414-f53692336c53)" width="100%"/>
+</P>
 
 <h1 align="center">Hi 👋, I'm KH. ANABIL DITISHA</h1>
 
